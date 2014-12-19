@@ -1,9 +1,19 @@
         h1{
-            color:#b0c4df;
+            color:#428bca;
             text-align: center;
                
         }
 
         p{
-            text-align: center;   
+            text-align: center;
+            padding: 10px;
         }
+
+        form{
+            margin: 100px;
+            width:"50%";
+        }
+        .checkbox{
+            float: right;   
+        }
+        
