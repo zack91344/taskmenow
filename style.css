@@ -16,4 +16,16 @@
         .checkbox{
             float: right;   
         }
+    #pwd{
+        margin-top: 4px;   
+    }
+    #username{
+        margin-top: 4px;
+    }
+    button{
+        vertical-align: top;   
+    }
+
+
+
         
