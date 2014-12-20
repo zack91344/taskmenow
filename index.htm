@@ -14,7 +14,7 @@
    </HEAD>
 <BODY>
    <div class="container">
-       <H1>TaskMeNow - test connection</H1>
+       <H1>TaskMeNow</H1>
 
        <P title = "Brief Overview">TaskMeNow is a lightweight task management system that allows you to
            quickly add, complete, delete, and defer tasks you need to work with on a daily basis.</P> 
@@ -45,6 +45,14 @@
     
     </div>
 
-    
+    <?PHP
+        $x = 5;
+        $y = 10;
+        function myTest(){
+            global $x, $y;
+            echo $x+$y;
+        }
+
+    ?>
 </BODY>
 </HTML>
