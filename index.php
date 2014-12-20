@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <HTML lang = "en-US">
     
    <HEAD>
@@ -41,10 +41,7 @@
             <button class="btn btn-primary pull-left">Login</button>
             </form>
     
-     <?PHP
-     
-        echo "hello world";
-    ?>   
+     <?php echo "hello world from php"; ?>   
     
     <a href="page.php">PHP Script</a>
     
