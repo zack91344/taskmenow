@@ -41,9 +41,6 @@
             <button class="btn btn-primary pull-left">Login</button>
             </form>
     
-     <?php echo "hello world from php"; ?>   
-    
-    <a href="page.php">PHP Script</a>
     
     </div>
 
