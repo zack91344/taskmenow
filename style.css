@@ -26,5 +26,17 @@
     }
 
 
+    .nav-tabs{
+        margin-left: 33.333%;
+        display: inline-block;
+        
+    }
+
+    .nav-tabs a{
+        display: inline-block;
+        
+    }
+
+    
 
         
