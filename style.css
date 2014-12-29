@@ -37,6 +37,34 @@
         
     }
 
-    
 
+    table{
+        margin-top: 75px;   
+    }
+
+    th{
+        padding-bottom: 5px;
+        padding-top: 15px;
+        padding-right: 20px;
+
+
+    }
+    table input{
+        width: 40px;
+    }
+
+    
+    section {
+        margin-left: 50px;   
+        margin-top: 10px;
+        
+    }
+
+    h3{
+        margin-left: 50px;
+        border-bottom: 1px solid;
+        position: absolute;
+        top: 200px;
+        
+    }
         
