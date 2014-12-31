@@ -13,7 +13,7 @@ class Mysql {
 
         $query = "SELECT *
                   FROM users
-                  WHERE username = ? AND password = ?
+                  WHERE email = ? AND password = ?
                   LIMIT 1";
 
         if ($stmt = $this->conn->prepare($query)) {

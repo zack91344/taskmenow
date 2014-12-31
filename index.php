@@ -10,6 +10,9 @@
     $membership = new Membership();
     if($_POST && !empty($_POST['username']) && !empty($_POST['pwd'])){
        $response = $membership->validate_User($_POST['username'], $_POST['pwd']);
+       echo "<br>username: " . $_POST['username'];
+       echo "<br>password: " .$_POST['pwd'];
+
     }
 
 ?>
