@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hammers>
+    <iBeams>1</iBeams>
+</hammers>
+<tapes>
+    <iBeams>1</iBeams>
+    <plastics>1</plastics>
+</tapes>
+<nails>
+    <iBeams>2</iBeams>
+</nails>
+<planks>
+    <logs>2</logs>
+</planks>
+<bricks>
+    <minerals>2</minerals>
+</bricks>
+<chairs>
+    <logs>2</logs>
+    <nails>1</nails>
+    <hammers>1</hammers>
+</chairs>
+<shovels>
+    <iBeams>1</iBeams>
+    <logs>1</logs>
+    <plastics>1</plastics>
+</shovels>
+<vegetables>
+    <seeds>2</seeds>
+</vegetables>

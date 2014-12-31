@@ -9,7 +9,7 @@
             padding: 10px;
         }
 
-        form{
+        form.form-horizontal{
             margin: 100px;
         }
         .checkbox{
@@ -22,7 +22,7 @@
         margin-top: 4px;
     }
     button{
-        vertical-align: top;   
+        vertical-align: top; 
     }
 
 
@@ -40,7 +40,7 @@
 
 
     table{
-        margin-top: 75px;
+        margin-top: 90px;
         margin-bottom: 30px;
     }
 

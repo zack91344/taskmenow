@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<houses>
+  <house1>
+    <brick>4</brick>
+    <chair>3</chair>
+    <hammer>2</hammer>
+    <plank>1</plank>
+    <shovel>1</shovel>
+    <tape>1</tape>
+    <vegetable>1</vegetable>
+  </house1>
+</houses>
