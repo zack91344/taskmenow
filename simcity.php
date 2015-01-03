@@ -60,6 +60,8 @@
        if(!empty($_POST['chairInput'])){
             $log += (3 * $chair);
             $iBeam += (3 * $chair);
+            $nail++;
+            $hammer++;
        }
        if(!empty($_POST['hammerInput'])){
             $iBeam += $hammer;
@@ -282,6 +284,7 @@ else
                     //output = document.getElementById("chairOutput");
                     document.write("Chair: " + houses[i].childNodes[j].childNodes[0].nodeValue + "<br>");
                     //output.innerHTML = houses[i].childNodes[j].childNodes[0].nodeValue;
+                    //echo "hello";
                 }
                 if (houses[i].childNodes[j].nodeName == "iBeam") {
                     output = document.getElementById("iBeamOutput");
