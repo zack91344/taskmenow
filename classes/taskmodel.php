@@ -1,5 +1,5 @@
 <?php
-Database=membership;Data Source=us-cdbr-azure-west-a.cloudapp.net;User Id=b20f46da60e22d;Password=ee06f1cb
+//Database=membership;Data Source=us-cdbr-azure-west-a.cloudapp.net;User Id=b20f46da60e22d;Password=ee06f1cb
     function connect(){
         $host = "us-cdbr-azure-west-a.cloudapp.net";
         $user = "b20f46da60e22d";
