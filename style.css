@@ -21,8 +21,14 @@
     #username{
         margin-top: 4px;
     }
+    
+    div{
+        position: relative;    
+    }    
     button{
-        vertical-align: top; 
+        position: absolute;
+        right: auto;
+        top: auto;
     }
 
 
@@ -40,9 +46,24 @@
 
 
     table{
-        margin-top: 90px;
+        margin-top: 45px;
         margin-bottom: 30px;
+
     }
+    table.centered{
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+    table.lefted{
+            width: 300px;
+            float: left;   
+            margin-top: 0px;   
+            margin-left: 0px;           
+        }
+    table.lefted td{
+            margin-right: 30px;
+        }
 
     th{
         padding-bottom: 5px;
@@ -50,6 +71,9 @@
         padding-right: 20px;
 
 
+    }
+    table.centered input{
+        width: 400px;
     }
     table input{
         width: 40px;
@@ -70,3 +94,10 @@
         
     }
         
+
+   main {
+            padding-top: 2px;
+        }
+       
+        
+ 

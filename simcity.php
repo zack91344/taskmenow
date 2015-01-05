@@ -145,7 +145,7 @@ else
 
     <nav>
     <ul class="nav nav-tabs">
-        <li role="presentation"><a href="/index.htm">Home</a></li>
+        <li role="presentation"><a href="/index.php">Home</a></li>
         <li role="presentation" class="active"><a href="#">SimCity</a></li>
         <li role="presentation"><a href="#">Profile</a></li>
     </ul>
